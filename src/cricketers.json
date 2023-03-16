@@ -1,0 +1,22 @@
+[
+    {   "name": "Sachin Tendulkar",
+        "sport":"Cricket",  
+        "country":"India",  
+        "age":45,
+        "image":"imagesOfAthletes/sachinImg.jpg"
+    },
+
+    {   "name": "Virat Kohli",
+        "sport":"Cricket",
+        "country":"India",
+        "age":32,
+        "image":"imagesOfAthletes/kohliImg.jpg"
+    },
+
+    {   "name": "Rohit Sharma",
+        "sport":"Cricket",
+        "country":"India",
+        "age":32,
+        "image":"imagesOfAthletes/rohitImg.jpg"
+    }
+  ]

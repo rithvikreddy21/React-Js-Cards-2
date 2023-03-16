@@ -1,0 +1,25 @@
+[
+    {
+        "name":"Lionel Messi",
+        "sport":"Football",
+        "country":"Argentina",
+        "age":33,
+        "image":"imagesOfAthletes/messiImg.jpg"
+    },
+
+    {
+        "name":"Cristiano Ronaldo",
+        "sport":"Football",
+        "country":"Portugal",
+        "age":36,
+        "image":"imagesOfAthletes/ronaldoImg.jpg"
+    },
+
+    {
+        "name":"Neymar Jr",
+        "sport":"Football",
+        "country":"Brazil",
+        "age":29,
+        "image":"imagesOfAthletes/neymarImg.jpg"
+    }
+]
